@@ -9,11 +9,11 @@ Sorular :
 Çözüm:
 Bu CTF Gralhix tarafından web sitesinde yayınlanıyor çözmek isteyen kişiler için CTF linki(https://gralhix.com/list-of-osint-exercises/osint-exercise-027/) elimizdeki veriler kısıtlı sadece bir fotoğrafa sahibiz. Bu fotoğrafı incelemek için yeni sekmede açtığımızda konuşmacının siyah bir ceket içinde beyaz gömlek ve açık mavi renkli kravat taktığını görebiliyoruz.
 
-
+![osintexercise027.png](https://github.com/boryokusha/OSINT-Writeup/blob/main/osintexercise027.png)
 
 Ekranda yansıtılan fotoğrafa baktığımızda ise ekranda büyük font ile yazılan "LECTURA EN MOVIMIENTO" yazsını görebiliriz. Diğer görebildiğimiz detayların arasında konuşmacının arkasında duran 3 bayrak ile ekranın üstünde yer alan sponsor ve etkinlikle alakalı kurum ve kuruluşların bilgilerini görebiliriz. Bayrakların önemi bizim için büyük çünkü etkinlikte en göze çarpan detaylar bunlar , bunlar ya konuşmayı düzenleyen kurumun ya da sponsorların bayrağı olması lazım bunların arasından "OEI" bayrağını rahatlıkla seçebiliyoruz. 
 
-(OEI flag)
+![lag.webp](https://github.com/boryokusha/OSINT-Writeup/blob/main/flag.webp)
 
 Elimizde bulunan en güçlü veriyi kullanarak arama motorumuzda "LECTURA EN MOVIMIENTO en Lima" aramasını yapıyoruz. Görsellere tıkladığımız zaman karşımıza ilk veri olarak bu web sitesi çıkıyor.
 ![1.png](https://github.com/boryokusha/OSINT-Writeup/blob/main/1.png)
