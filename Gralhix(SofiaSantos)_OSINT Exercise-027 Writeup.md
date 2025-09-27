@@ -9,7 +9,7 @@ Sorular :
 Çözüm:
 Bu CTF Gralhix tarafından web sitesinde yayınlanıyor çözmek isteyen kişiler için CTF linki(https://gralhix.com/list-of-osint-exercises/osint-exercise-027/) elimizdeki veriler kısıtlı sadece bir fotoğrafa sahibiz. Bu fotoğrafı incelemek için yeni sekmede açtığımızda konuşmacının siyah bir ceket içinde beyaz gömlek ve açık mavi renkli kravat taktığını görebiliyoruz.
 
-(fotoğraf)
+![1.png]
 
 Ekranda yansıtılan fotoğrafa baktığımızda ise ekranda büyük font ile yazılan "LECTURA EN MOVIMIENTO" yazsını görebiliriz. Diğer görebildiğimiz detayların arasında konuşmacının arkasında duran 3 bayrak ile ekranın üstünde yer alan sponsor ve etkinlikle alakalı kurum ve kuruluşların bilgilerini görebiliriz. Bayrakların önemi bizim için büyük çünkü etkinlikte en göze çarpan detaylar bunlar , bunlar ya konuşmayı düzenleyen kurumun ya da sponsorların bayrağı olması lazım bunların arasından "OEI" bayrağını rahatlıkla seçebiliyoruz. 
 
