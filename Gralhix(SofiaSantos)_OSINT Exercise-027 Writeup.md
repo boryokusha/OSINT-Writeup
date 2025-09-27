@@ -1,12 +1,16 @@
-**Genel Bilgiler** : Gralhix tarafından hazırlanan OSINT Ctf'i
-**Kategori** : OSINT Kolay
-**İpuçları** : Yok
+**Genel Bilgiler** :
+Gralhix tarafından hazırlanan OSINT Ctf'i
+**Kategori** :
+OSINT Kolay
+**İpuçları** :
+Yok
 **Sorular** :
 	1-)Konuşan kişinin isimi
 	2-)Konuşanın yakasında ne giydiğini belirleyin
 	3-)Konuşmanın fotoğrafını bulun
 
-Çözüm:
+**Çözüm:**
+
 Bu CTF Gralhix tarafından web sitesinde yayınlanıyor çözmek isteyen kişiler için CTF linki(https://gralhix.com/list-of-osint-exercises/osint-exercise-027/) elimizdeki veriler kısıtlı sadece bir fotoğrafa sahibiz. Bu fotoğrafı incelemek için yeni sekmede açtığımızda konuşmacının siyah bir ceket içinde beyaz gömlek ve açık mavi renkli kravat taktığını görebiliyoruz.
 
 ![osintexercise027.png](https://github.com/boryokusha/OSINT-Writeup/blob/main/osintexercise027.png)
