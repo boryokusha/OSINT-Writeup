@@ -1,7 +1,7 @@
-Genel Bilgiler : Gralhix tarafından hazırlanan OSINT Ctf'i
-Kategori : OSINT Kolay
-İpuçları : Yok
-Sorular :
+**Genel Bilgiler** : Gralhix tarafından hazırlanan OSINT Ctf'i
+**Kategori** : OSINT Kolay
+**İpuçları** : Yok
+**Sorular** :
 	1-)Konuşan kişinin isimi
 	2-)Konuşanın yakasında ne giydiğini belirleyin
 	3-)Konuşmanın fotoğrafını bulun
