@@ -8,9 +8,13 @@ OSINT Kolay
 Yok
 
 **Sorular** :
+
 	1-)Konuşan kişinin isimi
+	
 	2-)Konuşanın yakasında ne giydiğini belirleyin
+	
 	3-)Konuşmanın fotoğrafını bulun
+	
 	
 
 **Çözüm:**
