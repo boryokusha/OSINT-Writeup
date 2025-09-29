@@ -2,8 +2,7 @@
 Gralhix tarafından hazırlanan OSINT Ctf'i
 
 **Kategori** :
-OSINT [Kolay]Error Code: -101
-Unable to connect to server. Server may be offline or you may not be connected to the internet.
+OSINT Kolay
 
 **İpuçları** :
 Yok
